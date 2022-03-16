@@ -4,5 +4,6 @@ public class Mail {
         System.out.println("smthpc1");
         System.out.println("change 3");
 
+        System.out.println("now can work");
     }
 }
